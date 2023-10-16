@@ -2,6 +2,7 @@
   <div>
     <VAppBar
       density="compact"
+      class="app-bar-safe-zone"
       flat>
       <span class="text-h6 hidden-sm-and-down ms-md-4">
         {{ library?.Name }}

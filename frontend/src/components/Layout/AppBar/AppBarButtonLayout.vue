@@ -1,6 +1,6 @@
 <template>
   <VBtn
-    class="align-self-center ma-1"
+    class="align-self-center ma-1 ml-lg-2"
     v-bind="mergeProps($props)"
     icon
     size="small"
