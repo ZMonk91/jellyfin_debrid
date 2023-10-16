@@ -45,7 +45,7 @@
                   data-swiper-parallax="-100" />
                 <VBtn
                   min-width="12em"
-                  variant="outlined"
+                  variant="tonal"
                   data-swiper-parallax="-100"
                   :to="getItemDetailsLink(item)">
                   {{ $t('viewDetails') }}
