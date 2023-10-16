@@ -3,7 +3,7 @@
     <VAppBar
       density="compact"
       flat>
-      <span class="text-h6 hidden-sm-and-down">
+      <span class="text-h6 hidden-sm-and-down ms-md-4">
         {{ library?.Name }}
       </span>
       <VChip
